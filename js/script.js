@@ -10,7 +10,7 @@ $(document).ready(function(){
             },
             sub:{
                 required:true,
-                minlength:5
+                minlength:2
             },
             message:{
                 required:true,
